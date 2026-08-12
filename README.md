@@ -26,8 +26,8 @@ The lab uses VirtualBox and a custom NAT Network with the
 | Network Type | Custom NAT Network |
 | Network | 10.0.0.0/24 |
 | Kali Linux | Virtual Machine |
-| IP Address | [YOUR KALI IP] |
-| Gateway | [YOUR GATEWAY] |
+| IP Address | 10.0.0.2/24 |
+| Gateway | 10.0.0.1 |
 
 ## 1. Custom NAT Network
 
@@ -35,19 +35,19 @@ I created a custom VirtualBox NAT Network using:
 
 `10.0.0.0/24`
 
-![NAT Network](screenshots/01-virtualbox-nat-network.png)
+
 
 ## 2. Kali Linux VM Network Configuration
 
 The Kali Linux VM was connected to the custom NAT Network.
 
-![Kali Network Settings](screenshots/02-kali-network-settings.png)
+
 
 ## 3. Kali IP Configuration
 
 I configured Kali Linux with the assigned IP address:
 
-`[YOUR KALI IP]/24`
+`10.0.0.2/24`
 
 I verified the configuration using:
 
@@ -61,7 +61,7 @@ I tested connectivity between Kali Linux and the lab network.
 
 Commands used:
 ip route
-ping -c 4 [GATEWAY]
+ping -c 4 10.0.0.1
 ping -c 4 google.com
 
 ## 5. Kali Linux Snapshot
@@ -85,7 +85,6 @@ Demonstration
 
 A short video demonstration of the lab setup is available here:
 
-[VIDEO LINK]
 
 ## Conclusion
 
