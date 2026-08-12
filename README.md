@@ -104,7 +104,7 @@ The gateway was configured as:
 
 ### Configuration Screenshot
 
-![Custom NAT Network](kali_network_Nat_settings.png)
+![Custom NAT Network](Virtualbox_networksettings.png)
 
 ---
 
@@ -116,7 +116,7 @@ The VM was configured to use the custom NAT Network created in the previous step
 
 ### Virtual Machine Configuration
 
-![Kali Linux Virtual Machine](screenshots/kali-vm.png)
+![Kali Linux Virtual Machine](kali_network_Nat_settings.png)
 
 The Kali Linux VM was successfully connected to the custom network.
 
@@ -138,7 +138,7 @@ ip addr
 
 ### IP Address Verification
 
-![Kali IP Address](Kali_snapshot.png)
+![Kali IP Address](Kali_ip_config.png)
 
 The output confirmed that Kali Linux had been assigned the expected `10.0.0.2/24` address.
 
@@ -156,7 +156,7 @@ The routing configuration was checked to ensure that traffic could be routed thr
 
 ### Routing Verification
 
-![IP Route](ip-route.png)
+![IP Route](ping.png)
 
 ---
 
@@ -186,7 +186,7 @@ The connectivity tests were successful, confirming that the Kali Linux VM could 
 
 ### Connectivity Screenshot
 
-![Connectivity Test](screenshots/ping-test.png)
+![Connectivity Test](ping.png)
 
 ---
 
@@ -198,7 +198,7 @@ The snapshot provides a restore point that can be used to return the virtual mac
 
 ### Snapshot
 
-![VirtualBox Snapshot](screenshots/snapshot.png)
+![VirtualBox Snapshot](SNAP.png)
 
 This is useful when performing future cybersecurity experiments because the VM can be restored if a configuration change breaks the environment.
 
@@ -308,7 +308,7 @@ These screenshots provide visual evidence of the completed configuration.
 
 A short video demonstration of the laboratory setup is available below:
 
-**[▶ Watch the Lab Demonstration](VIDEO_LINK)**
+**[▶ Watch the Lab Demonstration](lab_setup)**
 
 The demonstration shows the main configuration steps, network verification, and completed Kali Linux environment.
 
