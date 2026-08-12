@@ -51,26 +51,7 @@ The main objectives of this lab were to:
 
 The laboratory network was configured using a private IPv4 network.
 
-```text
-                    Internet
-                       │
-                       │
-                VirtualBox NAT
-                       │
-                 10.0.0.1
-                    Gateway
-                       │
-              ┌────────┴────────┐
-              │  NAT Network    │
-              │  10.0.0.0/24    │
-              └────────┬────────┘
-                       │
-                ┌──────┴──────┐
-                │ Kali Linux  │
-                │ 10.0.0.2/24│
-                └─────────────┘
-```
-
+![Network](NAT.ong)
 ---
 
 ## Network Configuration
