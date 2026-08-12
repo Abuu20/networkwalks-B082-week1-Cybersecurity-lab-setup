@@ -156,7 +156,7 @@ The routing configuration was checked to ensure that traffic could be routed thr
 
 ### Routing Verification
 
-![IP Route](ping.png)
+![IP Route](ip_route.png)
 
 ---
 
@@ -186,7 +186,7 @@ The connectivity tests were successful, confirming that the Kali Linux VM could 
 
 ### Connectivity Screenshot
 
-![Connectivity Test](ping.png)
+![Connectivity Test](Ping.png)
 
 ---
 
