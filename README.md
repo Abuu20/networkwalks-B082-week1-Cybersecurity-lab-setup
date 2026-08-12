@@ -297,7 +297,7 @@ The demonstration shows the main configuration steps, network verification, and 
 
 # Project Structure
 
-![FOLDER STRUCTURE](i.png)
+![FOLDER STRUCTURE](project_folder_structure.png)
 
 ---
 
