@@ -104,7 +104,7 @@ The gateway was configured as:
 
 ### Configuration Screenshot
 
-![Custom NAT Network](screenshots/nat-network.png)
+![Custom NAT Network](kali_network_Nat_settings.png)
 
 ---
 
@@ -138,7 +138,7 @@ ip addr
 
 ### IP Address Verification
 
-![Kali IP Address](screenshots/ip-address.png)
+![Kali IP Address](Kali_snapshot.png)
 
 The output confirmed that Kali Linux had been assigned the expected `10.0.0.2/24` address.
 
@@ -156,7 +156,7 @@ The routing configuration was checked to ensure that traffic could be routed thr
 
 ### Routing Verification
 
-![IP Route](screenshots/ip-route.png)
+![IP Route](ip-route.png)
 
 ---
 
