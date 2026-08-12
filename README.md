@@ -51,7 +51,6 @@ I configured Kali Linux with the assigned IP address:
 
 I verified the configuration using:
 
-```bash
 ip addr
 
 
@@ -92,3 +91,5 @@ Conclusion
 
 This lab provided practical experience setting up an isolated
 cybersecurity practice environment using VirtualBox and Kali Linux.
+
+```bash
