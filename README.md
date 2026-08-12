@@ -156,7 +156,7 @@ This test verified connectivity between Kali Linux and the configured gateway.
 ### Internet Connectivity Test
 
 ```bash
-ping -c 4 google.com
+ping -c 4 youtube.com
 ```
 
 This test was used to verify external network connectivity.
@@ -212,7 +212,7 @@ I used:
 ip addr
 ip route
 ping -c 4 10.0.0.1
-ping -c 4 google.com
+ping -c 4 youtube.com
 ```
 
 These commands helped identify whether the issue was related to the interface, routing, gateway, or external connectivity.
@@ -263,7 +263,7 @@ The following Linux commands were used during the lab:
 ip addr
 ip route
 ping -c 4 10.0.0.1
-ping -c 4 google.com
+ping -c 4 youtube.com
 ```
 
 ---
