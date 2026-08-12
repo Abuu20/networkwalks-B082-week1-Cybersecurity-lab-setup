@@ -104,7 +104,7 @@ The gateway was configured as:
 
 ### Configuration Screenshot
 
-![Custom NAT Network](kali_network_Nat_settings.png)
+![Custom NAT Network](Virtualbox_network_settings.png)
 
 ---
 
