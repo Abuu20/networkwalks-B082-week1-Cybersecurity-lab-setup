@@ -138,7 +138,7 @@ ip addr
 
 ### IP Address Verification
 
-![Kali IP Address](Kali_ip_config.png)
+![Kali IP Address](kali_ip_config.png)
 
 The output confirmed that Kali Linux had been assigned the expected `10.0.0.2/24` address.
 
