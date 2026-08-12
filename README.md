@@ -104,7 +104,7 @@ The gateway was configured as:
 
 ### Configuration Screenshot
 
-![Custom NAT Network](Virtualbox_networksettings.png)
+![Custom NAT Network](kali_network_Nat_settings.png)
 
 ---
 
@@ -116,7 +116,7 @@ The VM was configured to use the custom NAT Network created in the previous step
 
 ### Virtual Machine Configuration
 
-![Kali Linux Virtual Machine](kali_network_Nat_settings.png)
+![Kali Linux Virtual Machine](Virtualbox_network_settings.png)
 
 The Kali Linux VM was successfully connected to the custom network.
 
