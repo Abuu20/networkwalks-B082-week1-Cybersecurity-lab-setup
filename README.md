@@ -51,7 +51,7 @@ The main objectives of this lab were to:
 
 The laboratory network was configured using a private IPv4 network.
 
-![Network](NAT.ong)
+![Network](NAT.png)
 ---
 
 ## Network Configuration
