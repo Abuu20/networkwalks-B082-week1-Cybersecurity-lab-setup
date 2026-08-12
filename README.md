@@ -53,3 +53,42 @@ I verified the configuration using:
 
 ```bash
 ip addr
+
+
+
+
+4. Connectivity Testing
+I tested connectivity between Kali Linux and the lab network.
+
+Commands used:
+ip route
+ping -c 4 [GATEWAY]
+ping -c 4 google.com
+
+5. Kali Linux Snapshot
+
+After completing the configuration, I created a VirtualBox snapshot so
+the configured state could be restored later.
+
+What I Learned
+
+Through this lab I practiced:
+
+Virtual machine deployment
+VirtualBox network configuration
+NAT networking
+IPv4 addressing
+Network troubleshooting
+Connectivity verification
+Virtual machine snapshots
+Technical documentation
+Demonstration
+
+A short video demonstration of the lab setup is available here:
+
+[VIDEO LINK]
+
+Conclusion
+
+This lab provided practical experience setting up an isolated
+cybersecurity practice environment using VirtualBox and Kali Linux.
