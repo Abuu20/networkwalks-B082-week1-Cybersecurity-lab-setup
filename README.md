@@ -297,22 +297,7 @@ The demonstration shows the main configuration steps, network verification, and 
 
 # Project Structure
 
-```text
-NetworkWALKS-Week1/
-│
-├── README.md
-│
-├── screenshots/
-│   ├── nat-network.png
-│   ├── kali-vm.png
-│   ├── ip-address.png
-│   ├── ip-route.png
-│   ├── ping-test.png
-│   └── snapshot.png
-│
-└── demonstration/
-    └── lab-demo.mp4
-```
+![FOLDER STRUCTURE](i.png)
 
 ---
 
