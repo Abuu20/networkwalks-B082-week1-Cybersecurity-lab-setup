@@ -43,7 +43,7 @@ The main objectives of this lab were to:
 | **`ping`**             | Connectivity testing                   |
 | **`ip route`**         | Routing table verification             |
 | **Git & GitHub**       | Version control and documentation      |
-| **Kdenlive**           | Lab demonstration video editing        |
+
 
 ---
 
