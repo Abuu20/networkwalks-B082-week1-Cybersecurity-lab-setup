@@ -181,7 +181,6 @@ The snapshot provides a restore point that can be used to return the virtual mac
 
 ![VirtualBox Snapshot](SNAP.png)
 
-This is useful when performing future cybersecurity experiments because the VM can be restored if a configuration change breaks the environment.
 
 ---
 
@@ -217,7 +216,6 @@ ping -c 4 youtube.com
 
 These commands helped identify whether the issue was related to the interface, routing, gateway, or external connectivity.
 
-> **Note:** Replace the troubleshooting examples above with the exact errors you actually encountered during your lab. Accurate documentation is more valuable than making the README look perfect.
 
 ---
 
